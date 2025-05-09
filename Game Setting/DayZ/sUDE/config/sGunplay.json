@@ -1,0 +1,23 @@
+{
+    "adsFOVMultiplier": 0.5,
+    "adsFOVMagnOpticsMultiplier": 0.5,
+    "adsDOFIntensity": 0.0,
+    "hideWeaponBarrelInOptic": 0,
+    "hideClothingInOptic": 1,
+    "lensZoomStrength": 0.75,
+    "deadzoneLimits": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "resetDeadzoneOnFocus": 1,
+    "showDynamicCrosshair": 1,
+    "dynamicCrosshairType": 0,
+    "dynamicCrosshairRGBA": [
+        255.0,
+        255.0,
+        255.0,
+        130.0
+    ]
+}
