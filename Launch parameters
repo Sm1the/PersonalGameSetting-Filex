@@ -1,0 +1,4 @@
+Apex : -forcenovsync +exec autoexec -novid
+CS1.6 : -noforcemparms -noforcemaccel -noforcemspd -stretchaspect
+CS2 : -novid -console -nosync -language english -noaafonts +fps_max 260
+Dota 2 : -mapdota -novid -nosync -noaafonts -prewarm -console
